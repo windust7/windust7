@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @windust7
-- 👀 I’m interested in Reinforcement Learning / Control Engineering / Robotics
+- 👀 I’m interested in Reinforcement Learning / Robotics
 - 📫 How to reach me:
   * dkcharng@gmail.com
   * dkcharng@naver.com
