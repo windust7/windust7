@@ -1,8 +1,7 @@
 <div align="center">
   👋 Hi, I’m Changhyun Choi (Charles I. Choi)<br>
   👀 I’m interested in Reinforcement Learning / Robotics<br>
-  📫 Please take a look at my [GitHub blog] (https://windust7.github.io/)
-
+  📫 Please take a look at my <a href="https://github.com/windust7/">GitHub blog</a>
 </div>
  
 <!---
