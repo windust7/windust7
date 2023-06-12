@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @windust7
+- 👋 Hi, I’m Changhyun Choi (Charles I. Choi)
 - 👀 I’m interested in Reinforcement Learning / Robotics
-- 📫 How to reach me:
+- 📫 Please take a look at my GitHub blog:
   * https://windust7.github.io/
-  * dkcharng@gmail.com
-  * dkcharng@naver.com
 
 <!---
 windust7/windust7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
