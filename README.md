@@ -1,6 +1,6 @@
 <div align="center">
   👋 Hi, I’m Changhyun Choi<br>
-  👀 I’m interested in GFlowNet and Reinforcement Learning <br>
+  👀 My current research interests encompass a broad spectrum of methods for applying artificial intelligence to various tasks, including robotics <br>
   📝 Please take a look at my <a href="https://windust7.github.io/">GitHub blog</a>
 </div>
  
